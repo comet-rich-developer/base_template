@@ -34,6 +34,6 @@ Our App may contain links to other websites or services that are not operated by
 We may update this Privacy Policy from time to time. When we do, we will post the updated policy in the App and update the “Effective Data” at the top of this Privacy Policy. We encourage you to review this Privacy Policy periodically for any changes. Your continued use of the App after the updated policy is posted will signify your acceptance of the changes.
 # Contact Us
 If you have any questions about this Privacy Policy or our data practices, please contact us at:
-WiiHub
-Email: cometrich.developer@gmail.com
-Address: Cometrich, Level 7, No 59, Lorong Lau King Howe 1, 96000, Sibu, Sarawak
+- WiiHub
+- Email: cometrich.developer@gmail.com
+- Address: Cometrich, Level 7, No 59, Lorong Lau King Howe 1, 96000, Sibu, Sarawak
