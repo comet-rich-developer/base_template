@@ -13,12 +13,12 @@ By using our App, you agree to the collection and use of information in accordan
   We may collect information about your location. You can control this collection in your device settings.
 # How We Use Your Information
 We use the collected data for various purposes, including:
-  - To provide, operate, and maintain the App
-  - Send notifications and updates about the App
+To provide, operate, and maintain the App
+Send notifications and updates about the App
 # Data Sharing
   We do not sell, rent or share your personal information with third parties, except as described in this Privacy Policy. We may share your data with the following types of third parties:
-    Service Providers: We may share data with third-party providers who assists us in the operation and functionality of the App (such as Google Firebase)
-    Legal Compliance: We may disclose your information if required by law, such as to comply with subpoenas, legal process, or government request.
+## Service Providers: We may share data with third-party providers who assists us in the operation and functionality of the App (such as Google Firebase)
+## Legal Compliance: We may disclose your information if required by law, such as to comply with subpoenas, legal process, or government request.
 # Security
   We take reasonable precautions to protect your personal information from unauthorized access, alteration, disclosure or destruction. However, please note that no method of transmitting data over the internet or storing data is completely secure, and we cannot guarantee the absolute security of your information. 
 # Your Rights
