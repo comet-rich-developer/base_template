@@ -3,13 +3,13 @@
   WiiHub is committed to protecting your privacy. This Privacy Policy explains how we collect, use and disclose your information when you use our mobile application, WiiHub, available on the Google Play Store (the “App”).
 By using our App, you agree to the collection and use of information in accordance with this policy.
 # Information We Collect
-## We collect the following types of information when you use our App:
-### Personal Data:
+  We collect the following types of information when you use our App:
+## Personal Data:
   Name: We may ask for your name for personalized experiences
   Email Address: We may ask for your email address for the purpose of sending necessary information to your email under certain circumstances
-### Usage Data
+## Usage Data
   Device Information: We collect information about the device you use to access the App, including device type, operating system and device ID.
-### Location Data
+## Location Data
   We may collect information about your location. You can control this collection in your device settings.
 # How We Use Your Information
 We use the collected data for various purposes, including:
