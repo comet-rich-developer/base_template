@@ -5,8 +5,8 @@ By using our App, you agree to the collection and use of information in accordan
 # Information We Collect
 We collect the following types of information when you use our App:
 ## Personal Data:
-Name: We may ask for your name for personalized experiences
-Email Address: We may ask for your email address for the purpose of sending necessary information to your email under certain circumstances
+- Name: We may ask for your name for personalized experiences
+- Email Address: We may ask for your email address for the purpose of sending necessary information to your email under certain circumstances
 ## Usage Data
 Device Information: We collect information about the device you use to access the App, including device type, operating system and device ID.
 ## Location Data
@@ -17,15 +17,15 @@ To provide, operate, and maintain the App
 Send notifications and updates about the App
 # Data Sharing
 We do not sell, rent or share your personal information with third parties, except as described in this Privacy Policy. We may share your data with the following types of third parties:
-## Service Providers: We may share data with third-party providers who assists us in the operation and functionality of the App (such as Google Firebase)
-## Legal Compliance: We may disclose your information if required by law, such as to comply with subpoenas, legal process, or government request.
+- Service Providers: We may share data with third-party providers who assists us in the operation and functionality of the App (such as Google Firebase)
+- Legal Compliance: We may disclose your information if required by law, such as to comply with subpoenas, legal process, or government request.
 # Security
 We take reasonable precautions to protect your personal information from unauthorized access, alteration, disclosure or destruction. However, please note that no method of transmitting data over the internet or storing data is completely secure, and we cannot guarantee the absolute security of your information. 
 # Your Rights
 Depending on your location, you may have certain rights regarding your personal information, including:
-  Access: You have the right to request access to the personal information we hold about you. 
-  Correction: you have the right to request that we correct any inaccurate or incomplete information
-  Deletion: You have the right to request the deletion of your personal information, subject to legal and contractual obligations
+- Access: You have the right to request access to the personal information we hold about you. 
+- Correction: you have the right to request that we correct any inaccurate or incomplete information
+- Deletion: You have the right to request the deletion of your personal information, subject to legal and contractual obligations
 # Children’s Privacy
 Our App is not intended for use by children under the age of 18. We do not knowingly collect or solicit personal information from children under 18. If we learn that we have collected personal information from a child under the age of 18, we will take steps to delete such information as soon as possible.
 # Third-Party Links
